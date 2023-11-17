@@ -32,6 +32,8 @@ git commit -m "COMMIT MESSAGE"
 git push origin <BRANCH NAME>
 ```
 
+NOTE: COMMIT MESSAGE SHOULD BE IN PRESENT TENSE
+
 Example
 
 ```
